@@ -13,4 +13,9 @@ Seaches up the next schedueled concert for searched Band
 "node liri.js spotify-this-song (song Name)"
 Search up any song of your choosing through spotify
 
-"node liri.js movie-this"
+"node liri.js movie-this (movie Name)"
+Search up any movie here.
+
+"node liri.js do-what-it-says"
+Shows info on the song "I Want it That Way"
+
